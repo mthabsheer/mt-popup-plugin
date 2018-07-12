@@ -6,8 +6,8 @@ A jquery plugin to show responsive dialog
 Include the jquery and the mt-popup-plugin js files as shown below:
 
 ```sh
-> <script type="text/javascript" src="jquery-3.3.1.min.js"></script>
-> <script type="text/javascript" src="mt-popup-plugin.js"></script>
+<script type="text/javascript" src="jquery-3.3.1.min.js"></script>
+<script type="text/javascript" src="mt-popup-plugin.js"></script>
 ```
 
 ### Usage
